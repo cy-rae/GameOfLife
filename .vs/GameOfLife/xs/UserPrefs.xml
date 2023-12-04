@@ -1,0 +1,26 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{F4ECD62B-C3A4-42CA-B4DB-DC65F68309C3}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.GameOfLife PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameOfLife.csproj">
+    <Files>
+      <File FileName="GameOfLife.cs" Line="18" Column="38" />
+      <File FileName="CellField.cs" Line="49" Column="32" />
+      <File FileName="rules/RulesUtils.cs" Line="15" Column="40" />
+      <File FileName="GameOfLife.csproj" Line="5" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GameOfLife" expanded="True" selected="True">
+            <Node name="GameOfLife">
+              <Node name="rules" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

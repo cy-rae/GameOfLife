@@ -1,0 +1,15 @@
+/Users/dario.nieddu/DEV/GameOfLife/obj/Debug/net7.0/GameOfLife.csproj.AssemblyReference.cache
+/Users/dario.nieddu/DEV/GameOfLife/obj/Debug/net7.0/GameOfLife.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dario.nieddu/DEV/GameOfLife/obj/Debug/net7.0/GameOfLife.AssemblyInfoInputs.cache
+/Users/dario.nieddu/DEV/GameOfLife/obj/Debug/net7.0/GameOfLife.AssemblyInfo.cs
+/Users/dario.nieddu/DEV/GameOfLife/obj/Debug/net7.0/GameOfLife.csproj.CoreCompileInputs.cache
+/Users/dario.nieddu/DEV/GameOfLife/bin/Debug/net7.0/GameOfLife
+/Users/dario.nieddu/DEV/GameOfLife/bin/Debug/net7.0/GameOfLife.deps.json
+/Users/dario.nieddu/DEV/GameOfLife/bin/Debug/net7.0/GameOfLife.runtimeconfig.json
+/Users/dario.nieddu/DEV/GameOfLife/bin/Debug/net7.0/GameOfLife.dll
+/Users/dario.nieddu/DEV/GameOfLife/bin/Debug/net7.0/GameOfLife.pdb
+/Users/dario.nieddu/DEV/GameOfLife/obj/Debug/net7.0/GameOfLife.dll
+/Users/dario.nieddu/DEV/GameOfLife/obj/Debug/net7.0/refint/GameOfLife.dll
+/Users/dario.nieddu/DEV/GameOfLife/obj/Debug/net7.0/GameOfLife.pdb
+/Users/dario.nieddu/DEV/GameOfLife/obj/Debug/net7.0/GameOfLife.genruntimeconfig.cache
+/Users/dario.nieddu/DEV/GameOfLife/obj/Debug/net7.0/ref/GameOfLife.dll
